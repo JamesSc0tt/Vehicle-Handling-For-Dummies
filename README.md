@@ -9,10 +9,11 @@ ensure vhfd_handling
 ```
 
 ## Adding new categories
-To add a new category, add the following to your __resource.lua of vhfd_handling:
+To add a new category, add the following to your __resource.lua of vhfd_handling.:
 ```
 vhfd_handling "src/{{FILENAME}}.lua"
 ```
+Make sure to replace '{{FILENAME}}' with the name of your file.
 
 ## Adding New Vehicles
 I have separated the vehicles into categories, see below for adding new categories. Simply edit your category file in 'src/' and add then following below the 'return {'. Make sure to replace '{{HANDLING_NAME}}' with your vehicles handling name.
