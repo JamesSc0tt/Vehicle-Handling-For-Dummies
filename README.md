@@ -1,4 +1,4 @@
-# Vehicle Handling For Dummies
+<img src="https://raw.githubusercontent.com/jamessc0tt/Vehicle-Handling-For-Dummies/master/icon.jpg" height="250px" width="100%">
 Super simple resource for easily editing vehicle handling files! Forget all that .meta bullshit and horrible formatting, simply create a lua table, edit the values and restart your FiveM server.
 
 ## Installation
